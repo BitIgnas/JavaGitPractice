@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class JavaLoop1 {
     public static void main(String[] args) {
 
-        System.out.println("Enter number:");
+        System.out.println("Enter number: ");
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
 
